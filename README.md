@@ -1,4 +1,4 @@
-#October8-Git
+# October8-Git
 
 * First GitHub and GitKraken Use for code task:     
     * still confused
